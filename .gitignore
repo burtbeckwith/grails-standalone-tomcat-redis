@@ -1,0 +1,7 @@
+stacktrace.log
+target
+docs
+*.zip
+plugin.xml
+.settings
+web-app
