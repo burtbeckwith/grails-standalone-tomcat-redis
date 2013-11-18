@@ -1,7 +1,8 @@
-stacktrace.log
-target
-docs
-*.zip
+*.log
+/target
+/docs
+grails-standalone-tomcat-redis-*.zip
+grails-standalone-tomcat-redis-*.zip.sha1
 plugin.xml
 .settings
 web-app
