@@ -13,7 +13,7 @@ grails.project.dependency.resolution = {
 	}
 
 	dependencies {
-		compile 'ru.zinin:tomcat-redis-session:0.5', {
+		compile 'ru.zinin:tomcat-redis-session:0.6', {
 			excludes 'commons-pool', 'jedis', 'tomcat-catalina', 'tomcat-jasper', 'tomcat-servlet-api'
 		}
 		compile 'redis.clients:jedis:2.2.0', {
