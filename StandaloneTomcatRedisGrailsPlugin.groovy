@@ -6,7 +6,7 @@ class StandaloneTomcatRedisGrailsPlugin {
 
 	private final Logger log = LoggerFactory.getLogger('grails.plugin.standalone.StandaloneTomcatRedisGrailsPlugin')
 
-	String version = '0.2'
+	String version = '0.3'
 	String grailsVersion = '2.0 > *'
 	List pluginExcludes = [
 		'docs/**',
